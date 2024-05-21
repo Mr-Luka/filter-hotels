@@ -54,3 +54,5 @@ const Hotel = props => (
         <BestsellerFlag isBestseller={props.hotel.isBestSeller}/>
     </li>
 )
+
+export default Hotel;
